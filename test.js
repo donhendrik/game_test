@@ -1,4 +1,4 @@
-let search_input = document.getElementById("searchbar");
+let search_input = document.getElementById("searchbar"); // Test hallo Mathis bitte pullen
 
 window.addEventListener("load", function() { // beim Laden Suchleiste fokussieren
     show_streak();
